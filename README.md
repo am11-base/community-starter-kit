@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+An application for welcoming contributors to your **repos**
 
 ## What it does
 
-FEATURES PLACEHOLDER
+ The bot interacts with contributers while they introduce a :
+
+  * new issue
+  * a new pull request 
+  * merge pull request
 
 ## Getting started
 
